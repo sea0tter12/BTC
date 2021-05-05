@@ -46,6 +46,7 @@
   font-family: 'Helvetica Neue', Helvetica, Arial, "MS Trebuchet", sans-serif;
   font-size: 17px;
   line-height: 1.3em;
+  color: white !important;
 }
 .tl-timeline ul {
   font-family: 'Helvetica Neue', Helvetica, Arial, "MS Trebuchet", sans-serif;
@@ -121,5 +122,5 @@ input[type="text"].editor-headline {
   font-weight: 800;
   font-size: 42px;
   line-height: 42px;
-  color: white;
+  color: white !important;
 }
